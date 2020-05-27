@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/mainCord"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ui.activities.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signInText"
+        android:text="@string/sign_in"
+        android:textSize="18sp"
+        android:visibility="visible"
+        android:gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:layout_centerInParent="true"/>
+    <com.google.android.gms.common.SignInButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+       android:layout_below="@id/signInText"
+        android:layout_centerInParent="true"
+        android:id="@+id/sign_in_button"/>
+
+</RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

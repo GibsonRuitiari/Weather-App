@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Please sign in to receiver personalized weather updates  -;)</string>
+    <string name="enter_a_city_s_name">Enter a city\'s name eg Nairobi..</string>
+    <string name="search">Search a city..</string>
+    <string name="searcg_">Search</string>
+    <string name="cityName">City Name:</string>
+    <string name="city">Nairobi</string>
+    <string name="countryName">Country Name:</string>
+    <string name="country">KE</string>
+    <string name="weather">Weather:</string>
+    <string name="weather_Description">broken clouds</string>
+    <string name="weatherNAme">Clouds</string>
+    <string name="description">Weather Description:</string>
+    <string name="icon">Icon:</string>
+    <string name="temp">Temperature:</string>
+    <string name="temp_">100</string>
+    <string name="speed">Speed:</string>
+    <string name="searchForAcity">Click on the search icon to search for a city.</string>
+</resources>
