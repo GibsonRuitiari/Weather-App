@@ -19,6 +19,10 @@
 
 :point_down: :point_down: :point_down: :point_down: :point_down:
 
+## General Preview
+Screenshots
+
+<img src="https://github.com/nerdloco/WeatherApp/blob/master/art/pic1.png" width="30%"><img src="https://github.com/nerdloco/WeatherApp/blob/master/art/pic2.png" width="30%"><img src="https://github.com/nerdloco/WeatherApp/blob/master/art/pic4.png" width="30%">
 ## Prequisite
 <p>
 
