@@ -4,6 +4,9 @@
   </a>
   <h3 align="center">ReaMe</h3>
 </p>
+
+# Weather App
+
 ### Table of contents
 
 **1 [About the Project](#about-the-project)**<br>
@@ -19,13 +22,16 @@
 
 ## Prequisite
 <p>
-Before running the app ,please create a <a href="https://firebase.google.com/"> and replace the google-services.json with yours.<br>Also please create an account on <a href="https://openweathermap.org/api"> and obtain an api key.
+
+Before running the project create a [firebase project](https://firebase.google.com/)  and replace **google-services.json** with yours in the `app` directory for a successful build and 
+enable email optio.<br>Also please create an account on [WeatherMapApi] (https://openweathermap.org/api) and obtain an api key.
+
 </p>
 
 ## About the App
 <p>
-An android app which consumes <a href="https://openweathermap.org/api"> to display weather data of different cities.<br>It is built with clean architecture principles, Repository pattern & MVVM patterns as well as Architecture Components.<br>
-Build system:<a href="https://gradle.org/">
+An android app which consumes [WeatherMapAPi] (https://openweathermap.org/api) to display weather data of different cities.<br>It is built with clean architecture principles, Repository pattern & MVVM patterns as well as Architecture Components.<br>
+Build system:[Gradle] (https://gradle.org/)
 </p>
 Star, share ... :wink:
 ## Technical
