@@ -164,7 +164,7 @@ For any concerns, please open an [issue]https://github.com/nerdloco/WeatherApp/i
 ### Assets
 
 **Credits:**
-- Logo is used from [WeatherApp](https://www.freepik.com/)
+- Logo is used from [FreePik](https://www.freepik.com/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 ## Versions
