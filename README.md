@@ -128,14 +128,15 @@ You can:
  [Jetpack](https://developer.android.com/jetpack)🚀
   - [Viewmodel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Manage UI related data in a lifecycle conscious way 
   and act as a channel between use cases and ui
-  - [Data Binding](https://developer.android.com/topic/libraries/data-binding) - support library that allows binding of UI components in  layouts to data sources,binds character details and search results to UI
+  - [Data Binding](https://developer.android.com/topic/libraries/data-binding) - support library that allows binding of UI components in  layouts to data sources,binds search results of forecast data to UI
 - [Retrofit](https://square.github.io/retrofit/) - type safe http client 
 and supports coroutines out of the box.  
 
 - [okhttp-logging-interceptor](https://github.com/square/okhttp/blob/master/okhttp-logging-interceptor/README.md) - logs HTTP request and response data.
 - [Material Design](https://material.io/develop/android/docs/getting-started/) - build awesome beautiful UIs.🔥🔥
 - [Firebase](https://firebase.google.com/) - Used for authenticating the user .
- -[Timber](https://github.com/JakeWharton/timber)- Used for logging.   
+
+-[Timber](https://github.com/JakeWharton/timber)- Used for logging.   
  
  
 #### Permissions
