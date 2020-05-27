@@ -2,10 +2,9 @@
     <a href="https://github.com/nerdloco/WeatherApp/ReadMe">
     <img src= "https://github.com/nerdloco/WeatherApp/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" alt="Weather App" width=250 height=250>
   </a>
-  <h3 align="center">ReaMe</h3>
+  <h3 align="center">Weather App</h3>
 </p>
 
-# Weather App
 
 ### Table of contents
 
